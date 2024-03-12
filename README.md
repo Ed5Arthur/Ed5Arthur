@@ -13,7 +13,7 @@
 
 
 <!--colocar a cobrinha-->
-![snake gif](https://github.com/Ed5Arthur/Ed5Arthur/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Ed5Arthur/Ed5Arthur/blob/output/github-contribution-grid-snake-dark.svg)
 
 
  ### Main skills:
