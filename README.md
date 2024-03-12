@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=f21f1f&center=true&vCenter=true&random=false&width=1000&lines=Hi%2C+my+name+is+Arthur;I+have+18+years+old;I'm+a+programming+student+and;I+want+to+work+in+the+field;I'm+from+Brazil;be+welcome%3A)](https://git.io/typing-svg)
 
-<!--colocar a cobrinha-->
+
 
 
 <!--my score-->
@@ -10,6 +10,11 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Ed5Arthur&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Arthur github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ed5Arthur&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
+
+
+<!--colocar a cobrinha-->
+![snake gif](https://github.com/Ed5Arthur/Ed5Arthur/blob/output/github-contribution-grid-snake.svg)
+
 
  ### Main skills:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
